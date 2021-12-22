@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /img/
+
+##################
+#SAYA SAYANG NAR!#
+##################
